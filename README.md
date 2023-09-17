@@ -55,3 +55,6 @@ yum install git -y
    //to check version//
    
 git --version
+   then clone the git using..
+git clone <repository url>  
+
