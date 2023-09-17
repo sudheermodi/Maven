@@ -57,4 +57,5 @@ yum install git -y
 git --version
    then clone the git using..
 git clone <repository url>  
+   then enter the repository whre pom.xml file available
 
