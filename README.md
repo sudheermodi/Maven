@@ -47,3 +47,11 @@ source /etc/profile
 Step4) Check the Maven version
 
 mvn -version
+
+for git install
+-------------------------
+yum install git -y
+
+   //to check version//
+   
+git --version
